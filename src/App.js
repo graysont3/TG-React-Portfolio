@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
-import Header from './components/Header'; 
+import Header from '/Users/tajagrayson/bootcamp/TG-React-Portfolio/src/css/Header.css';
+import About from './components/About'; 
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
         >
           Learn React
         </a>
+        <About />
       </header>
     </div>
   );
