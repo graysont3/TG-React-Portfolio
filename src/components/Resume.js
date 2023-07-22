@@ -4,7 +4,7 @@ function Resume() {
     return(
         <div>
             <h2>Resume</h2>
-            <p id="resume-download">Here is my <a href="https://docs.google.com/document/d/1_VHQHnDJ7sGsoMshVrBxPCqpOUBMqz-Q/edit ">Resume</a></p>
+            <a href="https://docs.google.com/document/d/1_VHQHnDJ7sGsoMshVrBxPCqpOUBMqz-Q/edit ">Here is my Resume</a>
             <h2>Front-End Proficiencies</h2>
             <ul>
                 <li>HTML</li>
